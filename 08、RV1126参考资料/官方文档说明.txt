@@ -1,6 +1,0 @@
-Linux文档目录：此目录包含驱动开发、uboot开发和boot开发的文档资料。
-Others文档目录：此目录包含系统测试，功耗测试等等。
-RV1126_RV1109文档目录：此目录包含RV1126芯片特有的功能开发文档。
-详细的文档使用说明请参考<正点原子 ATK-DLRV1126 SDK使用文档>
-Rockchip RV1109&RV1126TRM V1.0 Partx-20200608.pdf: 此文件是RV1126官方的芯片文档(有两份)
-Rockchip RV1126 Datasheet V1.4 20210329.pdf: 此文档是RV1126的Datasheet 
