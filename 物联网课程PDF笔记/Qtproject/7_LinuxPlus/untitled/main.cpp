@@ -2048,7 +2048,7 @@ export 设置，允许用户后来更改 VARNAME=value; export VARNAME
                         return 0;
                     }
 
-。
+
             3.2.2.2 父子进程拥有独立的地址空间
                 例：
                     #include <stdio.h>

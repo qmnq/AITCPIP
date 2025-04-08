@@ -788,6 +788,8 @@ gedit :±à¼­Æ÷´ò¿ª
     #make clean
     #echo $test
 
+
+
     main:main.c main.h
         gcc main.c -o main
     clean:
